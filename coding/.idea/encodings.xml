@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/demo/itcast-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/demo/itcast-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/demo/itcast-service-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/demo/itcast-service-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/demo/itcast-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/demo/itcast-service-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/demo/itcast-service-provider/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/demo/itcast-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/资料/http-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/11-乐优商城/leyou/day02-springcloud/资料/http-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-mbg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-mbg/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-portal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fakeStore/mall/mall-security/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
