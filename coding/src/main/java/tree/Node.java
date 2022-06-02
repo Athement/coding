@@ -18,4 +18,6 @@ public class Node {
         right = _right;
         next = _next;
     }
+
+
 };
